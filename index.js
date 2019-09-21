@@ -29,7 +29,7 @@ function makeInt(n) {
   return n
 }
 
-function makeInt(n) {
-  parseInt(10)
+function makeInt(n, x) {
+  parseInt(n, 10)
   return n
 }
